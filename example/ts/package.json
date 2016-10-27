@@ -1,0 +1,23 @@
+{
+  "name": "ts-example",
+  "version": "1.0.0",
+  "description": "Example Skutter project in Typescript",
+  "main": "run.js",
+  "scripts": {
+    "tsc": "tsc",
+    "example": "node run"
+  },
+  "keywords": [
+    "skutter",
+    "example",
+    "typescript",
+    "ts"
+  ],
+  "author": "Ash Beeson",
+  "license": "MIT",
+  "dependencies": {
+    "lazy.js": "^0.4.2",
+    "skutter": "^1.0.4",
+    "typings": "^1.4.0"
+  }
+}
